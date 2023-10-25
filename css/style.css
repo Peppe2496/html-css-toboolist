@@ -6,6 +6,7 @@
 
 .bg-gray{
     background-color: rgb(223, 217, 217);
+
 }
 
 .bg-white{
@@ -39,6 +40,10 @@
 header{
     
     height: 70px;
+    box-shadow: 10px 10px 5px rgb(5, 5, 5);
+
+    
+
 }
 
 #logo{
@@ -50,7 +55,7 @@ main{
     width: 70%;
     margin: 0 auto;
     padding: 50px;
-    font-size: 25px;
+   
 }
 
 .m-20{
@@ -115,7 +120,7 @@ button{
 
 .fs{
     font-size: 15px;
-    
+   
 }
 
 .space{
