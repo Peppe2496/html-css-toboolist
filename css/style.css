@@ -5,7 +5,7 @@
 }
 
 .bg-gray{
-    background-color: gray;
+    background-color: rgb(223, 217, 217);
 }
 
 .bg-white{
@@ -13,23 +13,23 @@
 }
 
 .bg-blue{
-    background-color: rgb(39, 191, 238);
+    background-color: rgb(12, 170, 218);
 }
 
 .bg-purple{
-    background-color: purple;
+    background-color: rgb(180, 73, 180);
 }
 
 .bg-pink{
-    background-color: pink;
+    background-color: rgb(250, 107, 174);
 }
 
 .bg-green{
-    background-color: green;
+    background-color: rgb(47, 185, 132);
 }
 
 .bg-lightgreen{
-    background-color: lightgreen;
+    background-color: rgb(104, 197, 61);
 }
 
 .bg-orange{
@@ -114,4 +114,9 @@ button{
 
 .fs{
     font-size: 15px;
+    
+}
+
+.content-padding{
+    padding: 50px;
 }
