@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.bc-gray{
+.bg-gray{
     background-color: gray;
 }
 
@@ -47,6 +47,25 @@ header{
 }
 
 main{
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
+    padding: 50px;
+}
+
+.m-20{
+    margin: 10px;
+}
+
+.p-20{
+    padding: 10px;
+}
+ 
+.br{
+    border-radius: 5px;
+}
+
+
+button{
+    padding: 5px;
+
 }
