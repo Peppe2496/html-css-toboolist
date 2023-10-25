@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bc-gray{
+    background-color: gray;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.bg-blue{
+    background-color: rgb(39, 191, 238);
+}
+
+.bg-purple{
+    background-color: purple;
+}
+
+.bg-pink{
+    background-color: pink;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-lightgreen{
+    background-color: lightgreen;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+header{
+    
+    height: 70px;
+}
+
+#logo{
+    padding: 10px;
+
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+}
