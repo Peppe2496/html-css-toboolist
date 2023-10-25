@@ -61,11 +61,20 @@ main{
 }
  
 .br{
-    border-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
 
+hr{
+    width: max-content;
+}
 
 button{
     padding: 5px;
 
+}
+
+.bb{
+    border-bottom: solid 1px;
+    color: gray;
 }
