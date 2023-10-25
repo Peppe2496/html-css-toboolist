@@ -40,7 +40,7 @@
 header{
     
     height: 70px;
-    box-shadow: 10px 10px 5px rgb(5, 5, 5);
+    box-shadow: 10px 10px 5px rgb(190, 190, 190);
 
     
 
@@ -125,4 +125,12 @@ button{
 
 .space{
     padding: 3px;
+}
+
+
+.container{
+    margin-top: 70px;
+    box-shadow: 10px 10px 5px rgb(190, 190, 190);
+
+    
 }
