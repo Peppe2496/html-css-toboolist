@@ -60,21 +60,58 @@ main{
     padding: 10px;
 }
  
-.br{
+.br-top{
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
 }
 
-hr{
-    width: max-content;
+
+.br-bottom{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; 
 }
 
+.br{
+    border-radius: 20px;
+
+
+}
 button{
     padding: 5px;
+    border-radius: 5px;
 
 }
 
 .bb{
     border-bottom: solid 1px;
     color: gray;
+}
+
+.tc{
+    color: white;
+}
+
+.circle {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    line-height: 15px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.check{
+    border: 1px solid #2cc6ab;
+    color: #2cc6ab;
+}
+
+.cross{
+    border: 1px solid red;
+    color: red;
+}
+
+.fs{
+    font-size: 15px;
 }
